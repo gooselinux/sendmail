@@ -1,0 +1,16 @@
+sendmail-etc-mail-virtusertable
+sendmail-etc-mail-trusted-users
+sendmail-etc-mail-mailertable
+sendmail-etc-mail-local-host-names
+sendmail-etc-mail-domaintable
+sendmail-etc-mail-access
+Sendmail-sasl2.conf
+sendmail-8.12.5-newconfig.readme
+sendmail.pam
+sendmail-redhat.mc
+sendmail.etc-mail-Makefile
+sendmail.sysconfig
+sendmail.etc-mail-make
+sendmail.nm-dispatcher
+sendmail.init
+sendmail.8.14.4.tar.gz
